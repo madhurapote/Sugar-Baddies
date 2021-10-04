@@ -1,2 +1,2 @@
 # Sugar-Baddies
-Inheritance 2021
+This is our Inheritance project.
